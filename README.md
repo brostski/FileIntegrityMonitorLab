@@ -33,7 +33,7 @@ Baseline Monitoring:  <br/>
 <br />
 <br />
 Hash Comparison Loop: <br/>
-<img src="https://i.imgur.com/UFJoHjV.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/qUjGmk2.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 User Notifications:  <br/>
