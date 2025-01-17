@@ -25,11 +25,11 @@ This script creates a File Integrity Monitoring (FIM) solution that establishes 
 
 <p align="center">
 Baseline Collection: <br/>
-<img src="https://i.imgur.com/tzkPWLq.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/SOPi6cu.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 Baseline Monitoring:  <br/>
-<img src="https://i.imgur.com/ldtmmLF.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/kg1YRQV.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 Hash Comparison Loop: <br/>
