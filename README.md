@@ -37,7 +37,7 @@ Hash Comparison Loop: <br/>
 <br />
 <br />
 User Notifications:  <br/>
-<img src="https://i.imgur.com/Rc8Lzmr.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/7WmdvE6.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 
